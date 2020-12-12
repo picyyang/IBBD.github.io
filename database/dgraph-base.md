@@ -1,7 +1,7 @@
 # Dgraph重要概念及基础入门
 dgraph 是可扩展的，分布式的，低延迟图形数据库。
 
-DGraph 的目标是提供 Google 生产水平的规模和吞吐量，在超过TB的结构数据里，未用户提供足够低延迟的实时查询。DGraph 支持 GraphQL 作为查询语言，响应 JSON。
+DGraph 的目标是提供 Google 生产水平的规模和吞吐量，在超过TB的结构数据里，为用户提供足够低延迟的实时查询。DGraph 支持 GraphQL 作为查询语言，响应 JSON。
 
 - 官方文档：https://docs.dgraph.io/
 - Github：https://github.com/dgraph-io/dgraph
